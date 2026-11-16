@@ -1,0 +1,4 @@
+minutos = int(input("Fala dai chefe, digita quantos minutos voce quer converter: "))
+horas = minutos // 60
+resto_minutos = minutos % 60
+print(f"{minutos} minutos = {horas} horas e {resto_minutos} min")

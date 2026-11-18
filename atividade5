@@ -1,0 +1,9 @@
+idade = int(input("Por favor, digite a sua idade: "))
+if idade <= 0:
+    print("🎁calma ae devolta ao passado tu nem nasceu ainda🎁")
+elif idade < 12:
+    print("❄️O valor do seu ingresso é R$ 10,00❄️")
+elif idade <= 17:
+    print("☃️O valor do seu ingresso é R$ 15,00☃️")
+else:
+    print("🔔O valor do seu ingresso é R$ 25,00🔔")

@@ -1,7 +1,7 @@
 dividendo = int(input("⭐Digite o primeiro número⭐ (🎄dividido🎄): "))
 divisor = int(input("🎅Digite o segundo número🎅 (🎄o divisor🎄): "))
 if divisor == 0:
-    print("🎄Erro: Não é possível dividir por zero🎄.")
+    print("🎄Erro: Não é possível dividir por zero🎄")
 else:
     resultado_exato = dividendo / divisor
     quociente_inteiro = dividendo // divisor

@@ -2,4 +2,4 @@ nome = input("Digite o seu nome: ")
 idade = input("Digite a sua idade: ")
 cidade = input("Digite a sua cidade: ")
 
-print(f"\nOlá, {nome}! Você tem {idade} anos e mora em {cidade}.")
+print(f"\nOlá, {nome}! Você tem {idade} anos e mora em {cidade}")
